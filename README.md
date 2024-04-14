@@ -83,8 +83,7 @@ list second screen here]
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="image/Wireframe_images" width=600>
+![Example Image](image/Wireframe_images.jpg)
 
 ### [BONUS] Digital Wireframes & Mockups
 
