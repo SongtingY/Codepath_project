@@ -15,7 +15,6 @@ LifeSync is an integrated productivity and personal growth app that combines adv
 
 ### App Evaluation
 
-[Evaluation of your app across the following attributes]
 **Category:** Productivity, Lifestyle
 
 **Mobile:** Mobile functionality is critical for LifeSync as it offers users the convenience of updating their schedules, tasks, and journal entries on the go. The app leverages device capabilities like push notifications for reminders, a camera for capturing moments or scanning documents, and location services to suggest task completion based on proximity to relevant places.
