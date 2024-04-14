@@ -52,12 +52,6 @@ LifeSync is an integrated productivity and personal growth app that combines adv
 
 ### 2. Screen Archetypes
 
-- [ ] [list first screen here]
-* [list associated required story here]
-* ...
-list second screen here]
-* [list associated required story here]
-* ...
 - [ ] Calendar View
 * Users can view and manage their schedule in daily, weekly, or monthly formats.(Include to do list and events)
 
