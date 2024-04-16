@@ -9,6 +9,14 @@
 
 ## Overview
 
+### Current Video Demo
+
+<div>
+    <a href="https://www.loom.com/share/8cb21563c14e4594a65759eb83ec6265">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8cb21563c14e4594a65759eb83ec6265-with-play.gif">
+    </a>
+  </div>
+
 ### Description
 
 LifeSync is an integrated productivity and personal growth app that combines advanced calendar functions, a to-do list, and journaling into a seamless interface. The app is designed to cater to users who want to not only manage their daily tasks but also reflect on their personal achievements and areas for improvement. LifeSync encourages active scheduling and goal-setting while providing tools for personal reflection and progress tracking. (Mainly for Ipad)
