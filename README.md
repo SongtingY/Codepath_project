@@ -15,12 +15,16 @@ LifeSync is an integrated productivity and personal growth app that combines adv
 
 ### App Evaluation
 
-[Evaluation of your app across the following attributes]
 **Category:** Productivity, Lifestyle
+
 **Mobile:** Mobile functionality is critical for LifeSync as it offers users the convenience of updating their schedules, tasks, and journal entries on the go. The app leverages device capabilities like push notifications for reminders, a camera for capturing moments or scanning documents, and location services to suggest task completion based on proximity to relevant places.
+
 **Story:** LifeSync acts as a personal assistant and a reflective journal. It's designed for individuals who strive for efficiency and self-improvement. By combining essential productivity tools with reflective journaling, users can manage their schedules, track their habits, and reflect on their personal growth, all within a single app.
+
 **Market:** The target market includes students, professionals, and anyone looking to enhance their productivity and personal growth. LifeSync can be marketed directly to consumers through app stores or potentially through partnerships with educational institutions and corporations seeking to provide productivity tools to their students and employees. 
+
 **Habit:** LifeSync is intended to be used daily. The calendar and to-do list features encourage regular check-ins throughout the day, while the journaling and reflection features are ideal for end-of-day summaries. Habit tracking functionalities motivate users to maintain consistency in their personal and professional goals.
+
 **Scope:** 
 - V1: Basic calendar and to-do list functionalities integrated with notification reminders.
 - V2: Introduction of the journaling and template customization features for daily reflections and habit tracking.
@@ -48,12 +52,6 @@ LifeSync is an integrated productivity and personal growth app that combines adv
 
 ### 2. Screen Archetypes
 
-- [ ] [list first screen here]
-* [list associated required story here]
-* ...
-list second screen here]
-* [list associated required story here]
-* ...
 - [ ] Calendar View
 * Users can view and manage their schedule in daily, weekly, or monthly formats.(Include to do list and events)
 
@@ -83,8 +81,7 @@ list second screen here]
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="Wireframe_images" width=600>
+![Example Image](image/Wireframe_images.jpg)
 
 ### [BONUS] Digital Wireframes & Mockups
 
