@@ -2,6 +2,7 @@
 Corresponding to the github project management
 
 **Step 1: Identify Main Features**
+https://github.com/users/SongtingY/projects/1?pane=issue&itemId=59859250
 For LifeSync, the main features based on your product spec might include:
 
 - Calendar View Screen
