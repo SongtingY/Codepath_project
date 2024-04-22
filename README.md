@@ -26,7 +26,7 @@ For LifeSync, the main features based on your product spec might include:
 **Step 2: Breakdown into Sprints**
 Given that each sprint lasts one week, here's a possible breakdown for LifeSync:
 
-- [ ] Sprint 1: Project Setup and Basic Architecture
+- [N] Sprint 1: Project Setup and Basic Architecture
 
 * Set up the project in your chosen development environment.
 * Create the basic app architecture and data models.
