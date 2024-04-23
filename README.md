@@ -80,6 +80,11 @@ At the end of each sprint, summarize the achievements and outline plans for the 
 Submit this documentation weekly to track progress and maintain a clear record of development.
 
 ### Current Video Demo
+<div>
+    <a href="https://www.loom.com/share/9ae9494fd3ee4a9db84ee5d0d86f48d2">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9ae9494fd3ee4a9db84ee5d0d86f48d2-with-play.gif">
+    </a>
+  </div>
 
 <div>
     <a href="https://www.loom.com/share/8cb21563c14e4594a65759eb83ec6265">
